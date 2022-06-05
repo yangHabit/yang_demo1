@@ -8,5 +8,7 @@ package com.yang;
  * @fuction: about the role of class.
  */
 public class TestMain {
-
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
 }
